@@ -29,7 +29,7 @@ This project is part of the **Power BI Specialist** path by [Maven Analytics](ht
 
 ## 📷 Dashboard Preview
 
-![LEGO Dashboard Screenshot](dashboard_screenshot.png)
+![LEGO Dashboard Screenshot](images/dashboard_screenshot.png)
 
 ---
 
